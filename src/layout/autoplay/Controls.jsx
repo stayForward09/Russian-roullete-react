@@ -99,7 +99,7 @@ const Controls = () => {
                     </div>
 
                </div>
-                <div>
+                {/* <div>
                     <div className="bg-[#2C3137] rounded-xl relative">
                         <div className="bg-[#f8bf60] w-full h-2/3  overflow-hidden rounded-t-lg px-4 py-4">
 
@@ -361,13 +361,13 @@ const Controls = () => {
                             <button className="mr-auto ml-0.5 h-16 w-[20vw] bg-[#f8bf60] items-center text-center font-bold text-4xl rounded-r-md hover:bg-[#fedf90] text-black shadow-md shadow-yellow-600 justify-center">X</button>
                         </div>
                     </div>
-                </div>
+                </div> */}
 
-               {/* <div className="bg-[#2C3137] items-center flex">
+               <div className="bg-[#2C3137] items-center flex">
                         <button className="ml-auto mt-4 mb-4 mr-0.5 h-16 w-16 text-lg font-bold bg-[#f8bf60] items-center text-center  rounded-l-md hover:bg-[#fedf90] text-black shadow-md shadow-yellow-700 justify-center"><div className="-mb-2">MAX</div>BET</button>
                         <a href='/start'><button className="h-16 bg-[#f8bf60] hover:bg-[#fedf90] text-black text-4xl font-bold w-44 shadow-md shadow-yellow-600">START</button></a>
                         <button className="mr-auto mt-4 mb-4 ml-0.5 h-16 w-16 bg-[#f8bf60] items-center text-center font-bold text-4xl rounded-r-md hover:bg-[#fedf90] text-black shadow-md shadow-yellow-600 justify-center">X</button>
-               </div> */}
+               </div>
 
                <div className="bg-[#2C3137] pt-3 font-semibold">
                     <div className="flex -mt-2">
@@ -404,7 +404,6 @@ const Controls = () => {
                             </div> */}
 
                     </div>
-
 
                </div>
 
